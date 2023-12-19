@@ -1,0 +1,4 @@
+user-agent: *
+Disallow: /logoprodukter/
+Disallow: /pics/
+disallow: /underconsturction.html/
